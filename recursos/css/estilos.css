@@ -7,7 +7,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(/recursos/backgroundColorImage.png) center top no-repeat #1b2838;
+    background: url(/recursos/img/backgroundColorImage.png) center top no-repeat #1b2838;
 }
 /*Cabecera*/
 
@@ -15,12 +15,25 @@ body{
     width: 100%;
     top: 0;
     position: sticky;
-    background: url(/recursos/backgroundColorImage.png) center top no-repeat #1b2838;
+    background: url(/recursos/img/backgroundColorImage.png) center top no-repeat #1b2838;
 }
 .cabecera{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.imagenLogo {
+    width: 115px;
+    margin: 10px;
+}
+.estilosCabeceraLink{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.estilosCabeceraH1{
+    margin-top: 62px;
 }
 
   /*Inicio estilos menu*/
@@ -82,6 +95,12 @@ body{
     background: rgba(255,255,255,0.15);
     color: rgb(255, 255, 255);
     box-shadow:rgb(0, 0, 0) 0px 0px 5px 0px;
+}
+.noticias :hover{
+    box-shadow: rgb(255, 255, 255) 0px 0px 5px 0px;
+}
+.noticias .noticia h2:hover {
+    box-shadow:none;
 }
 .imagen{
     width: 100%;
