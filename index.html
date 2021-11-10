@@ -3,29 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <title>Actividad 1 DAR Blog</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="recursos/css/estilos.css">
 </head>
 <body>
 <div class="contenedor">
     <div id="header" class="cabecera centrar">
-        <h1>Aquí va el logo</h1>
+        <a class="quitarEstilosLink estilosCabeceraLink" href="index.html">
+            <img class="imagenLogo" src="recursos/img/logo.png">
+            <h1 class="estilosCabeceraH1">UN INFORMÁTICO EN EL LADO DEL BIEN</h1>
+        </a>
 
         <!-- Menú que se queda pegado al top cuando hacemos scroll -->
         <nav class="menu">
             <ul class="listaMenu">
-                <li><a href="#a">Guías</a></li>
-                <li><a href="#b">Eventos</a></li>
-                <li><a href="#c">Compras</a></li>
+                <li><a class="quitarEstilosLink" href="index.html">Portada</a></li>
+                <li><a class="quitarEstilosLink" href="#b">Eventos</a></li>
+                <li><a class="quitarEstilosLink" href="#c">Libros</a></li>
             </ul>
         </nav>
     </div>
 
     <div id="cuerpo" class="estilosCuerpo centrar">
-        <h2>Portada con noticias</h2>
+        <h2 style="color:white">Portada con noticias</h2>
+        <div class="noticias">
+            <div class="noticia">
+                <a class="quitarEstilosLink" style="color:white" href="paginas/noticia1.html">
+                    <img class="imagen" src="recursos/img/noticia1.jpg">
+                    <h2>noticia 1</h2>
+                </a>
+            </div>
+            <div class="noticia">
+                <img class="imagen" src="recursos/img/noticia2.png">
+                <h2>noticia 2</h2>
+            </div>
+        </div>
+        <div class="noticias ultimaRow">
+            <div class="noticia">
+                <img class="imagen" src="recursos/img/noticia3.jpg">
+                <h2>noticia 1</h2>
+            </div>
+            <div class="noticia">
+                <img class="imagen" src="recursos/img/noticia4.png">
+                <h2>noticia 2</h2>
+            </div>
+        </div>
     </div>
 
     <div id="footer" class="pie alinearALaDerecha">
-        <label>Ⓒ Copyright <a href="https://es.linkedin.com/in/ernesto-gonz%C3%A1lez-pradas-374b95b9">Ernesto González Pradas</a></label>
+        <label>&copy; Copyright &nbsp;<a href="https://es.linkedin.com/in/ernesto-gonz%C3%A1lez-pradas-374b95b9">Ernesto González Pradas</a></label>
     </div>
 </div>
 
