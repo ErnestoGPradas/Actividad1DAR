@@ -139,6 +139,23 @@ body{
 }
 /*Fin estilos pie*/
 
+/*Inicio estilos noticia 1*/
+.estilonoticia1Cuerpo{
+    align-items: center;
+}
+.estilonoticia1Imagen{
+    width: 35%;
+}
+.estilonoticia1Parrafo{
+    color: white;
+    margin: 20px 20% 0px 20%;
+    text-align: initial;
+}
+.estilonoticia1UltimoParrafo{
+    padding-bottom: 5%;
+}
+/*Fin estilos noticia 1*/
+
 /*Estilos generales reutilizables*/
 .alinearALaIzquierda{
     text-align: left;
@@ -151,4 +168,7 @@ body{
 }
 .quitarEstilosLink{
     text-decoration: none;
+}
+.colorAquamarina{
+    color: aquamarine;
 }
