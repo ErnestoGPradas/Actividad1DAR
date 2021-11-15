@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Actividad 1 DAR Blog</title>
+    <link rel="stylesheet" href="../recursos/css/estilos.css">
+</head>
+<body>
+<div class="contenedor">
+    <div id="header" class="cabecera centrar">
+        <a class="quitarEstilosLink estilosCabeceraLink" href="../index.html">
+            <img class="imagenLogo" src="../recursos/img/logo.png">
+            <h1 class="estilosCabeceraH1">UN INFORMÁTICO EN EL LADO DEL BIEN</h1>
+        </a>
+
+        <!-- Menú que se queda pegado al top cuando hacemos scroll -->
+        <nav class="menu">
+            <ul class="listaMenu">
+                <li><a class="quitarEstilosLink" href="../index.html">Portada</a></li>
+                <li><a class="quitarEstilosLink" href="#b">Eventos</a></li>
+                <li><a class="quitarEstilosLink" href="#c">Libros</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="cuerpo" class="estilosCuerpo centrar estilonoticia1Cuerpo">
+        <h2 style="color:white">DLL HIJACKING: BYPASS DE UAC EN WINDOWS 10</h2>
+        <img class="estilonoticia1Imagen" src="../recursos/img/noticia3Info.jpg">
+        <p class="estilonoticia1Parrafo">
+            <strong>DLL Hijacking</strong> es una técnica popular para ejecutar <u>payloads maliciosas</u>. Esta publicación describe un bypass
+            de UAC a través del abuso de una carpeta de confianza (system32).
+            Pero primero, comprendamos el mecanismo de carga de DLL por cualquier aplicación.
+        </p>
+
+        <p class="estilonoticia1Parrafo">
+            <b>DLL significa Dynamic Link Library</b>, que es un archivo de biblioteca que contiene el código y los datos a los
+        que se puede acceder y usar dinámicamente por más de una aplicación al mismo tiempo. Microsoft introdujo la DLL
+        para implementar el concepto de biblioteca compartida que promueve la reutilización de código y el uso eficiente
+        de la memoria.
+        <u>En un concepto muy español diríamos que el término Secuestro de DLL es más preciso, y esto implica que una
+            DLL tome el control de una DLL legítima.</u>
+        </p>
+        <img class="estilonoticia1Imagen" style="margin-top: 5%" src="../recursos/img/noticia3Info2.jpg">
+        <p class="estilonoticia1Parrafo estilonoticia1UltimoParrafo">
+        Bueno, para mantenerlo bastante reforzado el concepto, el DLL Hijacking generalmente ocurre colocando una DLL
+        maliciosa en algunos lugares especiales. Esto hace que el sistema operativo cargue el .dll malicioso en lugar
+        del legítimo. Básicamente es una buena manera de escalar tus privilegios locales en una máquina con Windows si
+        identificas un proceso privilegiado o un ejecutable que se ejecuta en un contexto privilegiado, que carga
+        descuidadamente los archivos .dlls.
+        </p>
+    </div>
+
+    <div id="footer" class="pie alinearALaDerecha">
+        <label>&copy; Copyright &nbsp;<a href="https://es.linkedin.com/in/ernesto-gonz%C3%A1lez-pradas-374b95b9">Ernesto González Pradas</a></label>
+    </div>
+</div>
+
+</body>
+</html>
