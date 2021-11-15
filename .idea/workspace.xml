@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60f2bc32-8c7b-4a82-ad4b-e62e35dc8ce4" name="Changes" comment="HTML. sexto commit estilos y redacción noticias" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HTML" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20alYUzMJbotvWBTMmG3Pr3lsTB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/paginas" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\paginas" />
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\recursos\img" />
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\recursos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\recursos\css" />
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\recursos\img" />
+      <recent name="C:\Users\ernes\IdeaProjects\Actividad1DAR\recursos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f2bc32-8c7b-4a82-ad4b-e62e35dc8ce4" name="Changes" comment="" />
+      <created>1636290626786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636290626786</updated>
+      <workItem from="1636290628482" duration="454000" />
+      <workItem from="1636307566173" duration="3763000" />
+      <workItem from="1636397564797" duration="3322000" />
+      <workItem from="1636448548095" duration="95000" />
+      <workItem from="1636450122619" duration="6661000" />
+      <workItem from="1636487505405" duration="2259000" />
+      <workItem from="1636564266296" duration="1621000" />
+      <workItem from="1636892660410" duration="1191000" />
+      <workItem from="1636916534809" duration="938000" />
+      <workItem from="1636917744382" duration="135000" />
+      <workItem from="1636918346987" duration="444000" />
+      <workItem from="1636972995567" duration="12694000" />
+    </task>
+    <task id="LOCAL-00001" summary="primer commit">
+      <created>1636290780918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636290780918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HTML. Se añade css y etiquetas de la base del blog">
+      <created>1636311655553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636311655553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HTML. Segundo commit con estilos e imágenes">
+      <created>1636458102779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636458102779</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HTML. Tercer commit con estilos e imágenes se refactoriza la estructura">
+      <created>1636566072184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636566072184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HTML. Cuarto commit estilos y redacción noticias">
+      <created>1636975197640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636975197640</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HTML. quinto commit estilos y redacción noticias">
+      <created>1636987859029</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636987859029</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HTML. sexto commit estilos y redacción noticias">
+      <created>1636990963217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636990963217</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="developer" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="primer commit" />
+    <MESSAGE value="HTML. Se añade css y etiquetas de la base del blog" />
+    <MESSAGE value="HTML. Segundo commit con estilos e imágenes" />
+    <MESSAGE value="HTML. Tercer commit con estilos e imágenes se refactoriza la estructura" />
+    <MESSAGE value="HTML. Cuarto commit estilos y redacción noticias" />
+    <MESSAGE value="HTML. quinto commit estilos y redacción noticias" />
+    <MESSAGE value="HTML. sexto commit estilos y redacción noticias" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML. sexto commit estilos y redacción noticias" />
+  </component>
+</project>
